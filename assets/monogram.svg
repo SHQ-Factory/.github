@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
-<title id="title">SHQ Factory monogram</title><desc id="desc">Three precisely nested architectural corners forming a geometric engineering symbol.</desc>
-<rect width="160" height="160" rx="32" fill="#111923"/>
-<g stroke="#D9B77B" stroke-width="9" fill="none" stroke-linecap="square" stroke-linejoin="miter">
-<path d="M33 119V41H115"/><path d="M55 119V63H115"/><path d="M77 119V85H115"/>
-</g><path d="M115 41h13v13" stroke="#E3C995" stroke-width="5" fill="none"/>
-<circle cx="125" cy="118" r="5" fill="#D9B77B"/>
+<title id="title">SHQ Factory geometric lettermark</title><desc id="desc">Three distinct gold angular letters S, H and Q on a graphite background with the small word Factory beneath.</desc>
+<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070E15"/><stop offset="1" stop-color="#1A2C3A"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E4C897"/><stop offset=".54" stop-color="#D2A76D"/><stop offset="1" stop-color="#9D7444"/></linearGradient></defs>
+<rect width="160" height="160" rx="26" fill="url(#background)"/>
+<rect x="11" y="11" width="138" height="138" rx="18" fill="none" stroke="#836745" opacity=".45"/>
+<g fill="none" stroke="url(#gold)" stroke-width="6.8" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M55 52H28V73H55V96H27"/>
+<path d="M68 52V96M95 52V96M68 74H95"/>
+<path d="M111 52H134V96H111Z"/>
+<path d="M124 86L140 102"/>
+</g>
+<path d="M32 115H128" stroke="#D9B77B" stroke-width=".65" opacity=".43"/>
+<text x="80" y="132" text-anchor="middle" fill="#D5BB92" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="4">FACTORY</text>
 </svg>
