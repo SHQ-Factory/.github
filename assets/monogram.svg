@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">SHQ Factory monogram</title><desc id="desc">Three precisely nested architectural corners forming a geometric engineering symbol.</desc>
+<rect width="160" height="160" rx="32" fill="#111923"/>
+<g stroke="#D9B77B" stroke-width="9" fill="none" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M33 119V41H115"/><path d="M55 119V63H115"/><path d="M77 119V85H115"/>
+</g><path d="M115 41h13v13" stroke="#E3C995" stroke-width="5" fill="none"/>
+<circle cx="125" cy="118" r="5" fill="#D9B77B"/>
+</svg>
