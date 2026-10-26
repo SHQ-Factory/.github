@@ -47,7 +47,7 @@ Prefer explicit contracts, modular systems, and replaceable integration boundari
 Make room for correction, new evidence, and changing requirements without losing architectural coherence.
 
 <p align="center">
-  <img src="../assets/engineering-motif.svg" alt="Abstract geometric illustration of connected engineering disciplines." width="100%">
+  <img src="../assets/engineering-motif.svg" alt="Abstract layered systems network and architectural traces without pictographic icons." width="100%">
 </p>
 
 ## A considered approach to complexity
